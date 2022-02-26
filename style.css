@@ -1,0 +1,21 @@
+body{
+background-color: grey;
+color: rgb(230,230,230);
+font-family: helvetica; 
+font-weight: 80;
+letter-spacing: 2px;
+}
+
+h1{
+	Color:black;
+	font-family: helvetica;
+	font-size: 35px;
+	text-transform: uppercase;
+	letter-spacing: 20px;
+
+}
+
+h2{
+	color: black;
+}
+

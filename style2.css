@@ -1,0 +1,97 @@
+/* Colors and fonts */
+
+
+body {
+	background: #A67C9D;
+	color: black;
+	font-family:"Nunito", sans-serif;
+	font size: 20px;
+	font-weight: 400;
+}
+
+h1,h2,h3 {
+	font-weight: lighter;
+	font-family: "Raleway", sans-serif;
+}
+
+
+h1{
+	color: #F279BC;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+h2{
+	color: #F25E86;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+a{
+	text-decoration: none;
+	color: #401019;
+}
+a:hover{
+	color:#F2778D;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+	}
+
+	@media(max-width: 500px) {
+		.container{
+			width: : 400px;
+		}
+	}
+
+.card-white{
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle{
+		border-radius: 50%;
+}
+.btn-pink{
+	background-color: #401019;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+	
+.btn-pink:hover {
+	background-color: #F2778D;
+	color: white;
+
+}
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px
+}
+.list-inline li {
+	font-size: 50px;
+	color: #401019;
+}
+.list-inline li:hover {
+	color: #F2778D;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
